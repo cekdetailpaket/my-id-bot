@@ -6,7 +6,7 @@ Give it a try: [@my_id_bot](https://t.me/my_id_bot).
 
 This is a simple bot written with [aiogram 3.x](https://github.com/aiogram/aiogram) framework to show some IDs, like:
 
-* Your user ID (when asked in inline mode or in private chat with any message);  
+* Your user ID (6386436119);  
 * Group/supergroup ID (when added to that group or with /id command);  
 * Channel ID (when message forwarded from channel to one-to-one chat with bot);  
 * Supergroup ID (when message forwarded from anonymous group admin);  
